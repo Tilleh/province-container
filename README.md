@@ -37,6 +37,7 @@ composer require tilleh/province
 #### How to configure
 ```shell
 php artisan migrate --seed
+php artisan apiato:apidoc
 ```
 
 ### :technologist: Author
