@@ -17,7 +17,20 @@
 
 #### How to install
 ```shell
-composer require tilleh-container/province
+composer require tilleh/province
+```
+OR
+```json
+// go to app/Ship/composer.json
+{
+  "require": {
+    "apiato/core": "^7.0.0",
+    "apiato/documentation-generator-container": "^2.7.0",
+    "apiato/welcome-container": "^2.0.1",
+    // Add this line :sunglasses:
+    "tilleh/province": "^1.0.0"
+  }
+}
 ```
 
 #### How to configure
