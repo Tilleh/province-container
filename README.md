@@ -1,6 +1,8 @@
 <p align="center"><a href="https://tilleh.com" target="_blank"><img src="tilleh-logo.svg" width="200" alt="Tilleh Logo"></a></p>
 
 <h2 align="center">Apiato Province Container</h2>
+<p align="center">This is a complete list of Iran's provinces and cities for Apiato.</p>
+
 
 <div align="center">
 
@@ -13,9 +15,15 @@
 
 </div>
 
+---------------
+
 ### :arrow_down: How to install and config [tilleh/province](https://github.com/Tilleh/province-container) package?
 
 #### How to install
+```shell
+composer require tilleh/province
+```
+OR
 ```php
 // go to app/Ship/composer.json
 {
@@ -28,10 +36,6 @@
   }
 }
 // and then run "composer update"
-```
-OR
-```shell
-composer require tilleh/province
 ```
 
 #### How to configure
