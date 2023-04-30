@@ -14,8 +14,5 @@
                 "App\\Containers\\Vendor\\Province\\Providers\\ProvinceServiceProvider"
             ]
         }
-    },
-    "require-dev": {
-        "apiato/core": "^v7.0.0"
     }
 }
