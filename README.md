@@ -17,7 +17,7 @@
 
 #### How to install
 ```shell
-composer require tilleh/province
+composer require tilleh-container/province
 ```
 
 #### How to configure
