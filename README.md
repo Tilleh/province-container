@@ -27,7 +27,7 @@ OR
     "apiato/core": "^7.0.0",
     "apiato/documentation-generator-container": "^2.7.0",
     "apiato/welcome-container": "^2.0.1",
-    // Add this line :sunglasses:
+    // Add this line
     "tilleh/province": "^1.0.0"
   }
 }
