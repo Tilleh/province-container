@@ -1,0 +1,21 @@
+{
+    "name": "tilleh/province",
+    "description": "This is a complete list of Iran's provinces and cities for Apiato.",
+    "type": "apiato-container",
+    "require": {},
+    "extra": {
+        "apiato": {
+            "container": {
+                "name": "Province"
+            }
+        },
+        "laravel": {
+            "providers": [
+                "App\\Containers\\Vendor\\Province\\Providers\\ProvinceServiceProvider"
+            ]
+        }
+    },
+    "require-dev": {
+        "apiato/core": "^v7.0.0"
+    }
+}
