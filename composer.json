@@ -2,7 +2,6 @@
     "name": "tilleh-container/province",
     "description": "This is a complete list of Iran's provinces and cities for Apiato.",
     "type": "apiato-container",
-    "require": {},
     "extra": {
         "apiato": {
             "container": {
