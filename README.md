@@ -16,11 +16,7 @@
 ### :arrow_down: How to install and config [tilleh/province](https://github.com/Tilleh/province-container) package?
 
 #### How to install
-```shell
-composer require tilleh/province
-```
-OR
-```json
+```php
 // go to app/Ship/composer.json
 {
   "require": {
@@ -31,6 +27,11 @@ OR
     "tilleh/province": "^1.0.0"
   }
 }
+// and then run "composer update"
+```
+OR
+```shell
+composer require tilleh/province
 ```
 
 #### How to configure
